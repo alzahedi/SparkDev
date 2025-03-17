@@ -1,0 +1,5 @@
+{
+    "name": "SparkDevContainer",
+    "image": "sparkdevcontainer.azurecr.io/sparkdev:c985d151c1ee150c206b11945d4471f9c74fd95c910f6fe863cfcc2f898915d5",
+    "remoteUser": "vscode"
+}
