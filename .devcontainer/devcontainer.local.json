@@ -16,7 +16,6 @@
     "forwardPorts": [
       4040
     ],
-    "remoteUser": "vscode",
     "postCreateCommand": "sudo chmod +x /home/vscode/setup.sh",
     "postStartCommand": "/home/vscode/setup.sh"
   }
