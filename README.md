@@ -32,4 +32,4 @@ Git clone this repo in the the linux devbox and get started by launching the dev
 - Login
     `az login --use-device`
     `az acr login --name sparkdevcontainer`
-- Open the devcontainer using `ctrl+shift+p`
+- Open the devcontainer using `ctrl+shift+p` and then selecting `Dev Containers: Rebuild Without Cache and Reopen in Container`
