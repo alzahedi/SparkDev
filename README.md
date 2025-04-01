@@ -10,7 +10,7 @@ More details on that [here](.devcontainer/README.md)
 
 ### Microsoft Linux Devbox
 
-Follow [this](https://eng.ms/docs/cloud-ai-platform/azure-edge-platform-aep/aep-engineering-systems/productivity-and-experiences/developer-productivity/wave-for-windows-azure/linux/install) to get a fresh, powerful Dev machine in seconds. At the time of writing, this repo's toolling is aligned to work on Ubuntu hosts.
+Follow [this](https://eng.ms/docs/cloud-ai-platform/azure-edge-platform-aep/aep-engineering-systems/productivity-and-experiences/developer-productivity/wave-for-windows-azure/linux/overview) to get a fresh, powerful Dev machine in seconds. At the time of writing, this repo's toolling is aligned to work on Ubuntu hosts.
 
 Once you're ssh-ed in via Visual Studio Code, the only pre-req is Docker:
 
